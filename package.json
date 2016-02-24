@@ -74,6 +74,7 @@
     }
   },
   "dependencies": {
-    "babel-runtime": "^6.3.19"
+    "babel-runtime": "^6.3.19",
+    "webshot": "git+https://github.com/brenden/node-webshot.git"
   }
 }
